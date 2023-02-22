@@ -1,13 +1,13 @@
 from . import __version__ as app_version
 
 app_name = "workspaceperms"
-app_title = "workspaceperms"
-app_publisher = "umer"
-app_description = "workspaceperms"
+app_title = "Workspaceperms"
+app_publisher = "Patrick Stuhlmüller"
+app_description = "Manage the availability of workspaces within Frappe/ ERPNext (sidebar) based on user-roles"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "u.farooq@pk.micromerger.com"
-app_license = "MIT"
+app_email = "p.stuhlmueller@gmail.com"
+app_license = "GPLv3"
 
 # Includes in <head>
 # ------------------
